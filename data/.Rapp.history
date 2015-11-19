@@ -1,0 +1,250 @@
+gender.df
+pdf_melt
+melt(gender.df)
+stack(gender.df)
+pdf_melt
+pdfs
+source("analysis.R")
+genderp
+source("analysis.R")
+source("analysis.R")
+genders
+source("analysis.R")
+genders
+gender_melt
+genders
+source("analysis.R")
+genderp
+source("analysis.R")
+genderp
+gender_melt
+genders
+gender_melt
+source("analysis.R")
+genderp
+pdf_melt
+source("analysis.R")
+genderp
+pdfp
+genderp
+gender_melt
+source("analysis.R")
+genderp
+source("analysis.R")
+genderp
+source("analysis.R")
+genderp
+source("analysis.R")
+genderp
+source("analysis.R")
+genderp
+source("analysis.R")
+genderp
+gender_melt
+source("analysis.R")
+genderp
+genders
+source("analysis.R")
+genders
+genders
+genderp
+source("analysis.R")
+genderp
+source("analysis.R")
+genderp
+source("analysis.R")
+genderp
+source("analysis.R")
+genderp
+source("analysis.R")
+genderp
+source("analysis.R")
+genderp
+source("analysis.R")
+genderp
+source("analysis.R")
+genderp
+source("analysis.R")
+genderp
+source("analysis.R")
+genderp
+gender.df
+gender.df$qt <- cut(pnorm(gender.df$x))
+gender.df$qt <- cut(pnorm(gender.df$x), breaks=quantiles)
+gender.df$qt <- cut(pnorm(gender.df$x), breaks=1)
+gender.df$qt <- cut(pnorm(gender.df$x), breaks=2)
+gender.df
+source("analysis.R")
+genderp
+source("analysis.R")
+genderp
+source("analysis.R")
+genderp
+source("analysis.R")
+genderp
+source("analysis.R")
+genderp
+source("analysis.R")
+genderp
+source("analysis.R")
+genderp
+source("analysis.R")
+genderp
+source("analysis.R")
+source("analysis.R")
+sectionp
+source("analysis.R")
+sectionp
+source("analysis.R")
+sectionp
+pnorm(.24, 1,0)
+pnorm(.5)
+pnorm(.2)
+pnorm(.9)
+source("analysis.R")
+sectionpm
+source("analysis.R")
+sectionpm
+sectionpw
+sectionpm
+source("analysis.R")
+sectionpm
+genderp
+agep
+default_popm
+ptruncnorm(default_popm-5000, a=0, b=10, mean=5, sd=1.75)
+ptruncnorm(5000/default_popm, a=0, b=10, mean=5, sd=1.75)
+ptruncnorm(5000/default_popm, a=0, b=10, mean=5, sd=1.75)*default_popm
+ptruncnorm(.5, a=0, b=10, mean=5, sd=1.75)*default_popm
+ptruncnorm(.5, a=0, b=10, mean=5, sd=1.75)
+ptruncnorm(5, a=0, b=10, mean=5, sd=1.75)
+ptruncnorm(8, a=0, b=10, mean=5, sd=1.75)
+dtruncnorm(.5, a=0, b=10, mean=5, sd=1.75)
+dtruncnorm(5, a=0, b=10, mean=5, sd=1.75)
+singles
+single
+source("analysis.R")
+sectionpw
+sectionpm
+source("analysis.R")
+sectionpm
+sectionpw
+source("analysis.R")
+sectionpw
+sectionpm
+dev.new()
+sectionpw
+source("analysis.R")
+sectionpw
+sectionpm
+dev.new()
+sectionpm
+sectionpw
+dev.new()
+sectionpm
+(1-ptruncnorm(6.5,a=0,b=10,mean=5, sd=1.75))*default_popw
+source("analysis.R")
+sectionpm
+sectionpm
+source("analysis.R")
+sectionpm
+genderp
+sectionpm
+source("analysis.R")
+genderp
+source("analysis.R")
+genderp
+source("analysis.R")
+genderp
+source("analysis.R")
+genderp
+source("analysis.R")
+genderp
+sectionpm
+source("analysis.R")
+genderp
+source("analysis.R")
+sectionpm
+source("analysis.R")
+sectionpm
+source("analysis.R")
+sectionpm
+source("analysis.R")
+sectionpm
+source("analysis.R")
+sectionpm
+source("analysis.R")
+sectionpm
+source("analysis.R")
+sectionpm
+pdfp
+sdp
+source("analysis.R")
+sectionpw
+source("analysis.R")
+agep
+sdp
+sdp
+pdfp
+source("analysis.R")
+genderp
+sectionpw
+sectionpm
+ptruncnorm(6.5 a=0, b=10, mean=5, sd=1.75)*default_popw)
+ptruncnorm(6.5, a=0, b=10, mean=5, sd=1.75)*default_popw)
+ptruncnorm(6.5, a=0, b=10, mean=5, sd=1.75)*default_popw
+ptruncnorm(6.643404, a=0, b=10, mean=5, sd=1.75)*default_popm
+ptruncnorm(6.643404, a=0, b=10, mean=5, sd=1.75)*default_popw
+ptruncnorm(6.5, a=0, b=10, mean=5, sd=1.75)*default_popm
+qtruncnorm(6.5, a=0, b=10, mean=5, sd=1.75)
+ratingsw
+qtruncnorm(.5, a=0, b=10, mean=5, sd=1.75)
+qtruncnorm(.59, a=0, b=10, mean=5, sd=1.75)
+qtruncnorm(.89, a=0, b=10, mean=5, sd=1.75)
+source("analysis.R")
+source("analysis.R")
+source("analysis.R")
+source("analysis.R")
+sectionpm
+sectionpw
+source("analysis.R")
+sectionpm
+source("analysis.R")
+source("analysis.R")
+sectionpm
+sectionpw
+dev.new()
+sectionpm
+qtruncnorm(1-(5000/default_popm)
+)
+qtruncnorm(1-(5000/default_popw)
+)
+qtruncnorm(1-(5000/default_popm), a=0, b=10, mean=5, sd=1.75))
+qtruncnorm(1-(5000/default_popm), a=0, b=10, mean=5, sd=1.75)
+qtruncnorm(1-(5000/default_popw), a=0, b=10, mean=5, sd=1.75)
+ptruncnorm(7.87008, 6a=0, b=10, mean=5, sd=1.75)
+ptruncnorm(7.870086, a=0, b=10, mean=5, sd=1.75)
+ptruncnorm(7.771203, a=0, b=10, mean=5, sd=1.75)
+ptruncnorm(7.870086, a=0, b=10, mean=5, sd=1.75)*default_popw
+ptruncnorm(7.771203, a=0, b=10, mean=5, sd=1.75)*default_popm
+pnorm(.5)
+dnorm(.5)
+pnorm(1)
+pnorm(0)
+source("analysis.R")
+source("analysis.R")
+source("analysis.R")
+agep
+singlep
+head(ratings_w)
+head(ratingsw)
+ratingsw
+ratingsm
+single
+age
+age_groups
+pop
+qtruncnorm(10*91332/102949, a=0,b=10,5,1,75)
+qtruncnorm(10*91332/102949, a=0,b=10,5,1.75)
+qtruncnorm(1*91332/102949, a=0,b=10,5,1.75)
+qtruncnorm(1-(1*91332/102949), a=0,b=10,5,1.75)
